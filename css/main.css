@@ -1,0 +1,17 @@
+body {
+    margin-left: 2%;
+    margin-top: 1%;
+    background-color: #161525
+}
+div.game {
+    border-radius: 5px;
+    background-color: #156b15;
+    display: inline-block;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+h1, h2, h3, h4, h5, h6, p {
+    color: #dadada
+}
